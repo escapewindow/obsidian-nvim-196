@@ -1,5 +1,5 @@
 ---
-alias: [Amanda Green, Detective Green, Mandy]
+aliases: [Amanda Green, Detective Green, Mandy]
 ---
 
 # Not an alias
